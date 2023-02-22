@@ -14,3 +14,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=neilsonbar&show_icons=true" />
 </picture>
 
+![snake gif](https://github.com/neilsonbar/neilsonbar/blob/output/github-contribution-grid-snake.svg)
+
+
