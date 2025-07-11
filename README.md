@@ -1,6 +1,6 @@
 ###  Olá! Eu sou o Neilson Barbosa
 
-- 🌱Estudando Analise de desenvolvimento de sistemas
+- 🌱Estudando Engenharia de Software
 
 <picture>
 <source 
